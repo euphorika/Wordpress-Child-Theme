@@ -6,12 +6,12 @@
 * Template:       [NAME OF THEME]
 * Version:        1.0
 
-** PROJECT DESCRIPTION **
+## PROJECT DESCRIPTION ##
 
 
-** REQUIREMENTS **
+## REQUIREMENTS ##
 
 
-** GUIDELINES **
+## GUIDELINES ##
 
 - Bitte aktiv SASS-Funktionalitäten verwenden: http://thesassway.com
