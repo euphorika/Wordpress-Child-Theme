@@ -1,4 +1,4 @@
-# \<Wordpress Child Theme\>
+# Wordpress Child Theme
 
 * Theme Name:     [PROJEKT]
 * Author:         [YOUR NAME]
