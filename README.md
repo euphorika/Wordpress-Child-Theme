@@ -1,15 +1,17 @@
-Theme Name:     [PROJEKT]
-Author:         euphorika
-Author URI:     http://www.markenbegeisterung.de/
-Template:       Divi
-Version:        1.0
+# Wordpress Child Theme
 
-** PROJEKT BESCHREIBUNG **
+* Theme Name:     [PROJEKT]
+* Author:         [YOUR NAME]
+* Author URI:     [YOUR URL]
+* Template:       [NAME OF THEME]
+* Version:        1.0
+
+## PROJECT DESCRIPTION ##
 
 
-** Vorrausstzungen **
+## REQUIREMENTS ##
 
 
-** RICHTLINIEN **
+## GUIDELINES ##
 
 - Bitte aktiv SASS-Funktionalitäten verwenden: http://thesassway.com
