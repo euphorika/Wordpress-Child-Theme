@@ -3,14 +3,18 @@
 * Theme Name:     [PROJEKT]
 * Author:         [YOUR NAME]
 * Author URI:     [YOUR URL]
-* Template:       [NAME OF THEME]
+* Template:       [NAME OF PARENT-THEME]
 * Version:        1.0
+
+Boilerplate Small Wordpress Child-Theme with Cache Busting for css and js. 
+Download, change all information in corner brackets. 
 
 ## PROJECT DESCRIPTION ##
 
 
 ## REQUIREMENTS ##
 
+SASS / SCSS compiler 
 
 ## GUIDELINES ##
 
