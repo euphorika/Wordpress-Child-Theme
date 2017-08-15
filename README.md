@@ -1,7 +1,7 @@
 Theme Name:     [PROJEKT]
 Author:         euphorika
 Author URI:     http://www.markenbegeisterung.de/
-Template:       Divi
+Template:       [NAME OF THEME]
 Version:        1.0
 
 ** PROJEKT BESCHREIBUNG **
